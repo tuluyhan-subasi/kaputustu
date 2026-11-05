@@ -1,0 +1,31 @@
+name: Yakıt fiyatları
+
+on:
+  schedule:
+    - cron: "17 4 * * *"   # Her gün 07:17 (Türkiye saati)
+  workflow_dispatch:        # Actions sekmesinden elle çalıştırmak için
+
+permissions:
+  contents: write
+
+jobs:
+  guncelle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fiyatları çek
+        run: python scripts/yakit.py
+
+      - name: Kaydet
+        run: |
+          git config user.name "kaputustu-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add yakit.json debug
+          git diff --cached --quiet || git commit -m "Yakıt fiyatları güncellendi"
+          git push
