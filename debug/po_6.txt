@@ -1,0 +1,710 @@
+HTTP 200
+<!DOCTYPE html>
+<html  lang="tr">
+<head>
+
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,  height=device-height, maximum-scale=5.0, user-scalable=yes"/>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+    <noscript>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    </noscript>
+
+    <link rel="stylesheet" as="style" href="/_assets/css/style.min.css?v=w_ZDy8RN6MMd_AFezr2s6K9-9Iq_IgZxoHPk5zsdroE">
+
+
+    <link rel="canonical" href="https://www.petrolofisi.com.tr/akaryakit-fiyatlari/ankara-akaryakit-fiyatlari"/>
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/_assets/images/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/_assets/images/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/_assets/images/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/_assets/images/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/_assets/images/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/_assets/images/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/_assets/images/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/_assets/images/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/_assets/images/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/_assets/images/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/_assets/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/_assets/images/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/_assets/images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/_assets/images/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="~/_assets/images/favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+
+
+
+
+    <link rel="alternate" hreflang="tr" href="https://www.petrolofisi.com.tr/akaryakit-fiyatlari/ankara-akaryakit-fiyatlari"/>
+
+
+    <link rel="alternate" hreflang="x-default" href="https://www.petrolofisi.com.tr/akaryakit-fiyatlari/ankara-akaryakit-fiyatlari"/>
+
+
+    
+
+    
+
+
+
+
+
+
+
+    <title>Ankara Benzin, Akaryakıt ve LPG Fiyatları | Petrol Ofisi</title>
+
+        <meta name="description" content="Ankara akaryakıt litre fiyatlarını öğrenmek, güncel benzin, motorin/mazot ve LPG fiyatları için hemen &lt;a href=&quot;https://www.petrolofisi.com.tr/akaryakit-fiyatlari&quot; title=&quot;tıklayınız&quot;&gt;tıklayın!&lt;/a&gt;">
+        <meta property="og:description" content="Ankara akaryakıt litre fiyatlarını öğrenmek, güncel benzin, motorin/mazot ve LPG fiyatları için hemen &lt;a href=&quot;https://www.petrolofisi.com.tr/akaryakit-fiyatlari&quot; title=&quot;tıklayınız&quot;&gt;tıklayın!&lt;/a&gt;">
+
+        <meta property="og:type" content="website"/>
+        <meta property="og:image" content="https://www.petrolofisi.com.tr/_assets/images/logo.png"/>
+
+    <meta property="og:site_name" content="Petrol Ofisi"/>
+    <meta property="og:title" content="Ankara Akaryakıt  Fiyatları | Petrol Ofisi"/>
+
+    <meta property="og:url" content="https://www.petrolofisi.com.tr/akaryakit-fiyatlari/ankara-akaryakit-fiyatlari"/>
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:site" content="@petrolofisi"/>
+
+        <meta name="keywords" content="AnkaraAkaryakıt  Fiyatları">
+
+    <meta name="robots" content="max-image-preview:large">
+
+    
+    
+
+
+
+<script src="https://bundles.efilli.com/petrolofisi.com.tr.prod.js"></script>
+<script async src="//petrolofisi.api.useinsider.com/ins.js?id=10007284"></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NVC97LH');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+
+    <meta name="language-prefix" content="">
+
+</head>
+<body class="" data-instant-intensity="250">
+<!-- google tag manager -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-999342399"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+    gtag('config', 'AW-999342399');
+</script>
+<!-- end google tag manager -->
+<!-- Meta Pixel Code -->
+<script>
+    !function (f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function () {
+            n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = '2.0';
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '697270800615984');
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=697270800615984&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Meta Pixel Code -->
+<!-- TikTok Pixel Code Start -->
+<script>
+    !function (w, d, t) {
+        w.TiktokAnalyticsObject = t;
+        var ttq = w[t] = w[t] || [];
+        ttq.methods = ["page", "track", "identify", "instances", "debug", "on", "off", "once", "ready", "alias", "group", "enableCookie", "disableCookie", "holdConsent", "revokeConsent", "grantConsent"], ttq.setAndDefer = function (t, e) {
+            t[e] = function () {
+                t.push([e].concat(Array.prototype.slice.call(arguments, 0)))
+            }
+        };
+        for (var i = 0; i < ttq.methods.length; i++) ttq.setAndDefer(ttq, ttq.methods[i]);
+        ttq.instance = function (t) {
+            for (
+                var e = ttq._i[t] || [], n = 0; n < ttq.methods.length; n++) ttq.setAndDefer(e, ttq.methods[n]);
+            return e
+        }, ttq.load = function (e, n) {
+            var r = "https://analytics.tiktok.com/i18n/pixel/events.js", o = n && n.partner;
+            ttq._i = ttq._i || {}, ttq._i[e] = [], ttq._i[e]._u = r, ttq._t = ttq._t || {}, ttq._t[e] = +new Date, ttq._o = ttq._o || {}, ttq._o[e] = n || {};
+            n = document.createElement("script")
+            ;n.type = "text/javascript", n.async = !0, n.src = r + "?sdkid=" + e + "&lib=" + t;
+            e = document.getElementsByTagName("script")[0];
+            e.parentNode.insertBefore(n, e)
+        };
+
+
+        ttq.load('CJ8C7UBC77U3K5NQQC20');
+        ttq.page();
+    }(window, document, 'ttq');
+</script>
+<!-- TikTok Pixel Code End -->
+
+
+
+
+<div id="overlay" class="overlay d-none">
+    <div class="loader"></div>
+</div>
+
+
+
+<header class="po-header">
+    <div class="navbar navbar-expand-xl navbar-dark navbar-overlay scrollspy animation-slide-top">
+        <div class="container-fluid flex-nowrap px-md-6">
+
+            <a href="/" title="Petrol Ofisi" class="navbar-brand">
+                <img decoding="async" class="img-fluid" width="253" height="43" alt="Logo"
+                     srcset="/_assets/images/petrol-ofisi.svg 155w, /_assets/images/petrol-ofisi.svg 250w"
+                     sizes="(max-width: 1200px) 155px, 250px" src="/_assets/images/petrol-ofisi.svg" />
+            </a>
+
+            <ul class="nav align-items-center flex-nowrap d-xl-none text-light">
+
+                        <li class="nav-item"><a class="nav-link" href="/en" title="EN">EN</a></li>
+
+                <li class="nav-item"><a class="nav-link" href="javascript:;" title="Arama Yapma Ekranı" aria-label="Arama Yapma Ekranı" data-bs-toggle="modal" data-bs-target="#modal-search"><span class="icon icon-search"></span></a></li>
+                <li class="nav-item ms-3">
+                    <button class="navbar-toggler" aria-label="Menü" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+                        <e class="d-flex align-items-center justify-content-center">
+                            <em class="icon icon-menu d-block-show"></em>
+                            <em class="icon icon-close d-none-show"></em>
+                        </e>
+                    </button>
+                </li>
+            </ul>
+
+            <div class="collapse navbar-collapse justify-content-end flex-grow-0 flex-wrap ms-auto">
+                <ul class="navbar-nav fs-7 me-n3">
+                        <li class="navbar-item"><a href="/kurumsal/petrol-ofisi-grubu" title="Petrol Ofisi Grubu" class="nav-link link-muted">Petrol Ofisi Grubu</a></li>
+                        <li class="navbar-item"><a href="/kazandiran-programlar/petrol-ofisi-mobil" title="Petrol Ofisi Mobil" class="nav-link link-muted">Petrol Ofisi Mobil</a></li>
+                        <li class="navbar-item"><a href="/kampanyalar" title="Kampanyalar" class="nav-link link-muted">Kampanyalar</a></li>
+                        <li class="navbar-item"><a href="/iletisim" title="İletişim" class="nav-link link-muted">İletişim</a></li>
+
+                            <li class="navbar-item"><a class="nav-link" href="/en" title="English">English</a></li>
+
+                </ul>
+
+
+                <ul class="navbar-nav navbar-nav-hovered align-items-center justify-content-end w-100 mt-3">
+
+                            <li class="nav-item dropdown position-static">
+
+                                <a href="/kurumsal" title="Kurumsal" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Kurumsal</a>
+
+                                <div class="dropdown-menu dropdown-menu-mega border-0 bg-transparent w-100 pb-7">
+                                    <div class="container-fluid px-md-6">
+                                        <div class="card card-body border-0">
+                                            <div class="row gx-9 row-cols-4 flex-nowrap">
+
+                                                    <div class="border-end">
+                                                        <ul class="list-unstyled list-first dropdown-nav dropdown-nav-icon font-heading fs-6">
+                                                                <li>
+                                                                    <a href="/kurumsal/petrol-ofisi-grubu" title="Petrol Ofisi Grubu" class="dropdown-item" data-active="#menu_f8d0720f-c6f8-40b4-9040-3aa5854e605d">
+                                                                        Petrol Ofisi Grubu
+                                                                            <span class="dropdown-item-icon"><em class="icon icon-chevron-right"></em></span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/kurumsal/insan-kaynaklari" title="İnsan Kaynakları" class="dropdown-item" data-active="#menu_b80c182f-9b27-4fdf-b5e6-fd76763254ea">
+                                                                        İnsan Kaynakları
+                                                                            <span class="dropdown-item-icon"><em class="icon icon-chevron-right"></em></span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/kurumsal/medya-merkezi" title="Medya Merkezi" class="dropdown-item" data-active="#menu_e504ed52-d934-45d2-b5f6-6c7720f6e69a">
+                                                                        Medya Merkezi
+                                                                            <span class="dropdown-item-icon"><em class="icon icon-chevron-right"></em></span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/kurumsal/tedarik-zinciri" title="Tedarik Zinciri Yönetimi" class="dropdown-item" data-active="#menu_4a92585f-71e7-4414-9a10-d59243e03713">
+                                                                        Tedarik Zinciri Yönetimi
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/kurumsal/saglik-emniyet-cevre-guvenlik-kalite" title="Sağlık, Emniyet, Çevre, Güvenlik–Kalite" class="dropdown-item" data-active="#menu_81ecc61a-92b9-41cc-b9b4-c8186b0e4b2b">
+                                                                        Sağlık, Emniyet, Çevre, Güvenlik–Kalite
+                                                                            <span class="dropdown-item-icon"><em class="icon icon-chevron-right"></em></span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/kurumsal/haberler-ve-duyurular" title="Haberler ve Duyurular" class="dropdown-item" data-active="#menu_89b3f1ac-a2db-46dd-9c94-f518f1bdc4e7">
+                                                                        Haberler ve Duyurular
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/kurumsal/blog" title="Blog" class="dropdown-item" data-active="#menu_b000288d-955d-4875-a1e6-d4921351729e">
+                                                                        Blog
+                                                                            <span class="dropdown-item-icon"><em class="icon icon-chevron-right"></em></span>
+                                                                    </a>
+                                                                </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="border-end">
+
+                                                                <ul class="list-unstyled list-second dropdown-nav dropdown-nav-icon ms-4 d-none" id="menu_f8d0720f-c6f8-40b4-9040-3aa5854e605d">
+                                                                        <li>
+                                                                            <a href="/petrol-ofisi-grubu/hakkimizda" title="Hakkımızda" class="dropdown-item" data-active="#menu_319e9556-fdd6-47af-b8c3-39019407674b">
+                                                                                Hakkımızda
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/petrol-ofisi-grubu/tarihce" title="Tarihçe" class="dropdown-item" data-active="#menu_e42df0ad-a87f-4081-99e4-cb73af1edf29">
+                                                                                Tarihçe
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/petrol-ofisi-grubu/amac-ve-misyonumuz" title="Amaç ve Misyonumuz" class="dropdown-item" data-active="#menu_5ef88985-231f-4352-b627-3bacad9f61fc">
+                                                                                Amaç ve Misyonumuz
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/petrol-ofisi-grubu/ortak-degerler" title="Ortak Değerler" class="dropdown-item" data-active="#menu_f5c6f8e3-227f-4aad-96ce-97268cd41ec0">
+                                                                                Ortak Değerler
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/petrol-ofisi-grubu/ilke-ve-politikalarimiz" title="İlke ve Politikalarımız" class="dropdown-item" data-active="#menu_e9a2bdca-a517-45b6-b32d-cd99ae2e8fd6">
+                                                                                İlke ve Politikalarımız
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                                <ul class="list-unstyled list-second dropdown-nav dropdown-nav-icon ms-4 d-none" id="menu_b80c182f-9b27-4fdf-b5e6-fd76763254ea">
+                                                                        <li>
+                                                                            <a href="/insan-kaynaklari/isveren-vaadimiz" title="İşveren Vaadimiz" class="dropdown-item" data-active="#menu_7aeeecf2-a5b0-4c14-80d4-ac4493ed89c8">
+                                                                                İşveren Vaadimiz
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/insan-kaynaklari/petrol-ofisinde-yasam" title="Petrol Ofisi&#x27;nde Yaşam" class="dropdown-item" data-active="#menu_22e28942-0ba0-44e8-b728-a76e90c8f90b">
+                                                                                Petrol Ofisi&#x27;nde Yaşam
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/insan-kaynaklari/petrol-ofisinde-kariyer" title="Petrol Ofisi&#x27;nde Kariyer" class="dropdown-item" data-active="#menu_8016ff19-a262-4b2a-b233-ec6bc07a1221">
+                                                                                Petrol Ofisi&#x27;nde Kariyer
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/insan-kaynaklari/insan-kaynaklari-vizyonumuz" title="İnsan Kaynakları Vizyonumuz" class="dropdown-item" data-active="#menu_ed180c43-2080-4e7c-9371-757708785641">
+                                                                                İnsan Kaynakları Vizyonumuz
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                                <ul class="list-unstyled list-second dropdown-nav dropdown-nav-icon ms-4 d-none" id="menu_e504ed52-d934-45d2-b5f6-6c7720f6e69a">
+                                                                        <li>
+                                                                            <a href="/medya-merkezi/reklam-filmleri" title="Reklam Filmleri" class="dropdown-item" data-active="#menu_de084d55-057a-4c77-ae82-22cf43de2dfe">
+                                                                                Reklam Filmleri
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/medya-merkezi/logolar" title="Logolar" class="dropdown-item" data-active="#menu_6dc0388f-518c-4220-ad4f-4f0016a0b067">
+                                                                                Logolar
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                                <ul class="list-unstyled list-second dropdown-nav dropdown-nav-icon ms-4 d-none" id="menu_81ecc61a-92b9-41cc-b9b4-c8186b0e4b2b">
+                                                                        <li>
+                                                                            <a href="/saglik-emniyet-cevre-guvenlik-kalite/surdurulebilirlik" title="Sürdürülebilirlik" class="dropdown-item" data-active="#menu_9d5117c2-6168-4d9b-87e7-5341424a0c39">
+                                                                                Sürdürülebilirlik
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                                <ul class="list-unstyled list-second dropdown-nav dropdown-nav-icon ms-4 d-none" id="menu_b000288d-955d-4875-a1e6-d4921351729e">
+                                                                        <li>
+                                                                            <a href="/blog/seyahat-rehberi" title="Seyahat Rehberi" class="dropdown-item" data-active="#menu_d6b97c38-fe1c-4fe0-8fb2-68a2c228a3ac">
+                                                                                Seyahat Rehberi
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/blog/madeni-yag-rehberi" title="Madeni Yağ Rehberi" class="dropdown-item" data-active="#menu_9706127d-3587-406a-9c6e-6ac85b452d99">
+                                                                                Madeni Yağ Rehberi
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/blog/arac-rehberi" title="Araç Rehberi" class="dropdown-item" data-active="#menu_7e3478f9-dbe3-4784-8dd7-62e5b85d1654">
+                                                                                Araç Rehberi
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/blog/arac-bakim-guvenligi" title="Araç Bakım &amp; Güvenliği" class="dropdown-item" data-active="#menu_dc0aac4a-0242-4312-8e85-a52da99b736c">
+                                                                                Araç Bakım &amp; Güvenliği
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/blog/akaryakit-otogaz-rehberi" title="Akaryakıt &amp; Otogaz Rehberi" class="dropdown-item" data-active="#menu_293594d0-fefa-4354-8af8-258feee2bd6c">
+                                                                                Akaryakıt &amp; Otogaz Rehberi
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/blog/surus-rehberi" title="Sürüş Rehberi" class="dropdown-item" data-active="#menu_73d0cb9f-c654-4174-9964-b8bb0bf93d69">
+                                                                                Sürüş Rehberi
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+
+                                                    </div>
+                                                    <div class="border-end">
+
+
+                                                    </div>
+
+                                                <div class="col-6">
+                                                    
+        <div class="row flex-nowrap">
+            <div class="col-5">
+                <img loading="lazy" decoding="async" src="/medium/Banner/Image/dac8b30f-5944-4ea4-a5ce-c1ed939dd757" class="img-fluid w-100 rounded-4 rounded-ts-0 rounded-te-0 rounded-bs-0" alt="Size yakın mutlaka bir Petrol Ofisi istasyonu vardır." />
+                <div class="fs-6 fw-semibold mt-4">Size yakın mutlaka bir Petrol Ofisi istasyonu vardır.</div>
+                <div class="mt-4 text-end">
+                    
+
+    <a class="text-uppercase link-primary fs-7 fw-bold    " href="/istasyon-nerede" title="İstasyon Ara" target="_self" rel="">
+        <span>İstasyon Ara</span>
+        <i class="icon icon-arrow-right"></i>
+    </a>
+
+                </div>
+            </div>
+        </div>
+
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </li>
+                            <li class="nav-item dropdown position-static">
+
+                                <a href="/istasyonlar" title="İstasyonlar" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">İstasyonlar</a>
+
+                                <div class="dropdown-menu dropdown-menu-mega border-0 bg-transparent w-100 pb-7">
+                                    <div class="container-fluid px-md-6">
+                                        <div class="card card-body border-0">
+                                            <div class="row gx-9 row-cols-4 flex-nowrap">
+
+                                                    <div class="border-end">
+                                                        <ul class="list-unstyled list-first dropdown-nav dropdown-nav-icon font-heading fs-6">
+                                                                <li>
+                                                                    <a href="/istasyonlar/istasyon-hizmetleri" title="İstasyon Hizmetleri" class="dropdown-item" data-active="#menu_bb4175ab-2621-4731-beb0-183908a86fe3">
+                                                                        İstasyon Hizmetleri
+                                                                            <span class="dropdown-item-icon"><em class="icon icon-chevron-right"></em></span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/istasyon-nerede" title="İstasyon Nerede?" class="dropdown-item" data-active="#menu_f427f4a2-539f-4cd7-b21d-78f193896ddf">
+                                                                        İstasyon Nerede?
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/akaryakit-fiyatlari" title="Akaryakıt Fiyatları" class="dropdown-item" data-active="#menu_a7ef85ab-f597-4e90-be09-ea9d4a3896c3">
+                                                                        Akaryakıt Fiyatları
+                                                                            <span class="dropdown-item-icon"><em class="icon icon-chevron-right"></em></span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/arsiv-fiyatlari" title="Geçmiş Akaryakıt Fiyatları" class="dropdown-item" data-active="#menu_394266ed-5249-4c80-b94a-41183e1fa209">
+                                                                        Geçmiş Akaryakıt Fiyatları
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/istasyonlar/yakit-tuketimi-hesaplama" title="Yakıt Tüketimi Hesaplama" class="dropdown-item" data-active="#menu_78751906-3574-471c-acc5-dfed38387025">
+                                                                        Yakıt Tüketimi Hesaplama
+                                                                    </a>
+                                                                </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="border-end">
+
+                                                                <ul class="list-unstyled list-second dropdown-nav dropdown-nav-icon ms-4 d-none" id="menu_bb4175ab-2621-4731-beb0-183908a86fe3">
+                                                                        <li>
+                                                                            <a href="/istasyon-hizmetleri/market-plus" title="MarketPlus" class="dropdown-item" data-active="#menu_d4e2da86-42d2-429c-a18c-8c0c82eb46af">
+                                                                                MarketPlus
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/istasyon-hizmetleri/migros" title="Migros" class="dropdown-item" data-active="#menu_fbc0bc3a-6c49-41a0-bcbf-9022333c5621">
+                                                                                Migros
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/istasyon-hizmetleri/tchibo" title="Tchibo" class="dropdown-item" data-active="#menu_8adacf0f-e4d2-41c7-b4c2-d984b55a4d0e">
+                                                                                Tchibo
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/istasyon-hizmetleri/oto-yikama" title="Oto Yıkama" class="dropdown-item" data-active="#menu_acd7203d-103b-4f86-b8dc-ae421709cefc">
+                                                                                Oto Yıkama
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/istasyon-hizmetleri/western-union" title="Western Union" class="dropdown-item" data-active="#menu_0fefe149-770b-4eb4-873b-329989b88f91">
+                                                                                Western Union
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/istasyon-hizmetleri/s-power" title="S-POwer" class="dropdown-item" data-active="#menu_5ae9c932-1903-43f8-84a5-872e7a03cf58">
+                                                                                S-POwer
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/istasyon-hizmetleri/yag-degisim-merkezi" title="Yağ Değişim Merkezi" class="dropdown-item" data-active="#menu_93757544-9dad-48a8-aaa5-376b2f9fa84a">
+                                                                                Yağ Değişim Merkezi
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                                <ul class="list-unstyled list-second dropdown-nav dropdown-nav-icon ms-4 d-none" id="menu_a7ef85ab-f597-4e90-be09-ea9d4a3896c3">
+                                                                        <li>
+                                                                            <a href="/akaryakit-fiyatlari/guneydogu-anadolu-bolgesi-akaryakit-fiyatlari" title="Güneydoğu Anadolu Bölgesi Akaryakıt  Fiyatları" class="dropdown-item" data-active="#menu_edfac5c5-ee90-4566-9236-bcb5e906e758">
+                                                                                Güneydoğu Anadolu Bölgesi Akaryakıt  Fiyatları
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/akaryakit-fiyatlari/dogu-anadolu-bolgesi-akaryakit-fiyatlari" title="Doğu Anadolu Bölgesi Akaryakıt  Fiyatları" class="dropdown-item" data-active="#menu_2409ed61-b1b3-41d0-abae-a494782d1588">
+                                                                                Doğu Anadolu Bölgesi Akaryakıt  Fiyatları
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/akaryakit-fiyatlari/karadeniz-bolgesi-akaryakit-fiyatlari" title="Karadeniz Bölgesi Akaryakıt  Fiyatları" class="dropdown-item" data-active="#menu_8cc28d81-f6ce-4929-ac8c-2f23cb47ce76">
+                                                                                Karadeniz Bölgesi Akaryakıt  Fiyatları
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/akaryakit-fiyatlari/ic-anadolu-bolgesi-akaryakit-fiyatlari" title="İç Anadolu Bölgesi Akaryakıt  Fiyatları" class="dropdown-item" data-active="#menu_17f7a1d6-8e36-460a-8b11-826cbfeb1557">
+                                                                                İç Anadolu Bölgesi Akaryakıt  Fiyatları
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/akaryakit-fiyatlari/akdeniz-bolgesi-akaryakit-fiyatlari" title="Akdeniz Bölgesi Akaryakıt  Fiyatları" class="dropdown-item" data-active="#menu_c0edb623-135f-40e3-a8ed-ad59c1225235">
+                                                                                Akdeniz Bölgesi Akaryakıt  Fiyatları
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/akaryakit-fiyatlari/ege-bolgesi-akaryakit-fiyatlari" title="Ege Bölgesi Akaryakıt  Fiyatları" class="dropdown-item" data-active="#menu_a7be2161-25f5-4005-852e-45b32bf4ab26">
+                                                                                Ege Bölgesi Akaryakıt  Fiyatları
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/akaryakit-fiyatlari/marmara-bolgesi-akaryakit-fiyatlari" title="Marmara Bölgesi Akaryakıt  Fiyatları" class="dropdown-item" data-active="#menu_64834fc0-b926-478d-8201-d6672fd01904">
+                                                                                Marmara Bölgesi Akaryakıt  Fiyatları
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+
+                                                    </div>
+                                                    <div class="border-end">
+
+
+                                                    </div>
+
+                                                <div class="col-6">
+                                                    
+        <div class="row flex-nowrap">
+            <div class="col-5">
+                <img loading="lazy" decoding="async" src="/medium/Banner/Image/dac8b30f-5944-4ea4-a5ce-c1ed939dd757" class="img-fluid w-100 rounded-4 rounded-ts-0 rounded-te-0 rounded-bs-0" alt="Size yakın mutlaka bir Petrol Ofisi istasyonu vardır." />
+                <div class="fs-6 fw-semibold mt-4">Size yakın mutlaka bir Petrol Ofisi istasyonu vardır.</div>
+                <div class="mt-4 text-end">
+                    
+
+    <a class="text-uppercase link-primary fs-7 fw-bold    " href="/istasyon-nerede" title="İstasyon Ara" target="_self" rel="">
+        <span>İstasyon Ara</span>
+        <i class="icon icon-arrow-right"></i>
+    </a>
+
+                </div>
+            </div>
+        </div>
+
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </li>
+                            <li class="nav-item dropdown position-static">
+
+                                <a href="/urun-ve-hizmetler" title="Ürün ve Hizmetler" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Ürün ve Hizmetler</a>
+
+                                <div class="dropdown-menu dropdown-menu-mega border-0 bg-transparent w-100 pb-7">
+                                    <div class="container-fluid px-md-6">
+                                        <div class="card card-body border-0">
+                                            <div class="row gx-9 row-cols-4 flex-nowrap">
+
+                                                    <div class="border-end">
+                                                        <ul class="list-unstyled list-first dropdown-nav dropdown-nav-icon font-heading fs-6">
+                                                                <li>
+                                                                    <a href="/urun-ve-hizmetler/otogaz" title="Otogaz" class="dropdown-item" data-active="#menu_47415987-0520-4c05-a314-cb19430c54be">
+                                                                        Otogaz
+                                                                            <span class="dropdown-item-icon"><em class="icon icon-chevron-right"></em></span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/urun-ve-hizmetler/akaryakit-urunleri" title="Akaryakıt Ürünleri" class="dropdown-item" data-active="#menu_f4c68e27-cb7e-415e-ab81-37d78df909f6">
+                                                                        Akaryakıt Ürünleri
+                                                                            <span class="dropdown-item-icon"><em class="icon icon-chevron-right"></em></span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/urun-ve-hizmetler/kazandiran-programlar" title="Kazandıran Programlar" class="dropdown-item" data-active="#menu_11fe80be-cc6d-492e-8f48-c4b4244d3941">
+                                                                        Kazandıran Programlar
+                                                                            <span class="dropdown-item-icon"><em class="icon icon-chevron-right"></em></span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/urun-ve-hizmetler/filo-yonetimi" title="AutoMatic Filo Yönetimi" class="dropdown-item" data-active="#menu_d8273b1c-1c54-461a-8761-9922afb8ef28">
+                                                                        AutoMatic Filo Yönetimi
+                                                                            <span class="dropdown-item-icon"><em class="icon icon-chevron-right"></em></span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/urun-ve-hizmetler/e-power" title="E-Power" class="dropdown-item" data-active="#menu_55c0445a-e8fa-493d-bb0d-920c68d847de">
+                                                                        E-Power
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/urun-ve-hizmetler/havacilik" title="Havacılık" class="dropdown-item" data-active="#menu_09d49121-df3d-4d9c-96d3-f9956a70dc72">
+                                                                        Havacılık
+                                                                            <span class="dropdown-item-icon"><em class="icon icon-chevron-right"></em></span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/urun-ve-hizmetler/denizcilik" title="Denizcilik" class="dropdown-item" data-active="#menu_c2a68d03-2317-4e1a-ad2b-f6ee65c91927">
+                                                                        Denizcilik
+                                                                            <span class="dropdown-item-icon"><em class="icon icon-chevron-right"></em></span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/urun-ve-hizmetler/toptan-akaryakit-satisi" title="Toptan Akaryakıt Satışı" class="dropdown-item" data-active="#menu_c14575c5-699d-40f3-986f-299371a65735">
+                                                                        Toptan Akaryakıt Satışı
+                                                                    </a>
+                                                                </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="border-end">
+
+                                                                <ul class="list-unstyled list-second dropdown-nav dropdown-nav-icon ms-4 d-none" id="menu_47415987-0520-4c05-a314-cb19430c54be">
+                                                                        <li>
+                                                                            <a href="/otogaz/yakit-emniyet-sistemi" title="Yakıt Emniyet Sistemi" class="dropdown-item" data-active="#menu_5a932112-1ec1-4b31-91cd-712d3a650144">
+                                                                                Yakıt Emniyet Sistemi
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/otogaz/lpg-pass" title="LPG Pass" class="dropdown-item" data-active="#menu_efd8d735-7847-4265-ba9a-f8e6c78d4665">
+                                                                                LPG Pass
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/otogaz/anlasmali-lpg-donusum-servisleri" title="Anlaşmalı LPG Dönüşüm Servisleri" class="dropdown-item" data-active="#menu_b5410616-d5bc-46c6-9d42-75bc31b22429">
+                                                                                Anlaşmalı LPG Dönüşüm Servisleri
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/otogaz/otogaz-sss" title="Otogaz Sıkça Sorulan Sorular" class="dropdown-item" data-active="#menu_911cfcb5-4563-40e0-b508-fabd2902f886">
+                                                                                Otogaz Sıkça Sorulan Sorular
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                                <ul class="list-unstyled list-second dropdown-nav dropdown-nav-icon ms-4 d-none" id="menu_f4c68e27-cb7e-415e-ab81-37d78df909f6">
+                                                                        <li>
+                                                                            <a href="/akaryakit-urunleri/yeni-v-max-kursunsuz-95" title="Yeni V/Max Kurşunsuz 95" class="dropdown-item" data-active="#menu_fbfaef47-2305-47ff-9eb2-450be12c762f">
+                                                                                Yeni V/Max Kurşunsuz 95
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/akaryakit-urunleri/yeni-v-max-diesel" title="Yeni V/Max Diesel" class="dropdown-item" data-active="#menu_d17a7c19-638c-4047-9c08-60a299fc67c2">
+                                                                                Yeni V/Max Diesel
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                                <ul class="list-unstyled list-second dropdown-nav dropdown-nav-icon ms-4 d-none" id="menu_11fe80be-cc6d-492e-8f48-c4b4244d3941">
+                                                                        <li>
+                                                                            <a href="/kazandiran-programlar/petrol-ofisi-mobil" title="Petrol Ofisi Mobil" class="dropdown-item" data-active="#menu_471483fe-a568-4572-b8f4-9bce4932a31f">
+                                                                                Petrol Ofisi Mobil
+                                                                                    <span class="dropdown-item-icon"><em class="icon icon-chevron-right"></em></span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/kampanyalar" title="Kampanyalar" class="dropdown-item" data-active="#menu_b8af4438-1877-4ef2-b984-ed2477a1d8c0">
+                                                                                Kampanyalar
+                                                                                    <span class="dropdown-item-icon"><em class="icon icon-chevron-right"></em></span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/kazandiran-programlar/ode-gec" title="Öde Geç" class="dropdown-item" data-active="#menu_7272d704-ff75-454e-8243-56f1476175b5">
+                                                                                Öde Geç
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/kazandiran-programlar/mobil-ode-gec" title="Mobil Öde-Geç" class="dropdown-item" data-active="#menu_22d4bc69-c71c-45e2-b979-28b1174179c8">
+                                                                                Mobil Öde-Geç
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/kazandiran-programlar/miles-smiles" title="Miles &amp; Smiles" class="dropdown-item" data-active="#menu_e48aced6-8cb6-4b13-a3c5-f62d15b6260b">
+                                                                                Miles &amp; Smiles
+                                                                                    <span class="dropdown-item-icon"><em class="icon icon-chevron-right"></em></span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/kazandiran-programlar/money-club" title="Money Club" class="dropdown-item" data-active="#menu_f03b4d8f-c621-4811-8eba-1eaa5b5c06ab">
+                                                                                Money Club
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/kazandiran-programlar/sikca-sorulan-sorular" title="Sıkça Sorulan Sorular" class="dropdown-item" data-active="#menu_37feeb8c-3cf5-45ba-9de6-e02c48f92c84">
+                                                                                Sıkça Sorulan Sorular
+                                                                            </a>
+                                                                        </li>
+                                                                </ul>
+                                                                <ul class="list-unstyled list-second dropdown-nav dropdown-nav-icon ms-4 d-none" id="menu_d8273b1c-1c54-461a-8761-9922afb8ef28">
+                                                                        <li>
+                                                                            <a href="/filo-yonetimi/ulusal-tasit-tanima-sistemi-utts" title="Ulusal Taşıt Tanıma Sistemi (UTTS)" class="dropdown-item" data-active="#menu_4d89eee4-33b0-4b60-9379-76a4b54dc173">
+                                                                                Ulusal Taşıt Tanıma Sistemi (UTTS)
+                                                                                    <span class="dropdown-item-icon"><em class="icon icon-chevron-right"></em></span>
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/filo-yonetimi/automatic-plus" title="AutoMatic Plus" class="dropdown-item" data-active="#menu_ff7cf222-c8e8-412d-a789-9c102c6170b5">
+                                                                                AutoMatic Plus
+                                                                            </a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/filo-yonetimi/automatic-filo-kartlar" title="AutoMatic Filo Kartlar" class="dropdown-item" data-active="#menu_96cb1ea7-804a-4110-b58e-8ce2886ce087">
+                                                                                AutoMatic Filo Kartlar
+                                                                            </a>
+                                                                        </li>
+       
