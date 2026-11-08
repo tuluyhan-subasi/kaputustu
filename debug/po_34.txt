@@ -487,37 +487,37 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                 </ul>
                                                                 <ul class="list-unstyled list-second dropdown-nav dropdown-nav-icon ms-4 d-none" id="menu_a7ef85ab-f597-4e90-be09-ea9d4a3896c3">
                                                                         <li>
-                                                                            <a href="/akaryakit-fiyatlari/guneydogu-anadolu-bolgesi-akaryakit-fiyatlari" title="Güneydoğu Anadolu Bölgesi Akaryakıt  Fiyatları" class="dropdown-item" data-active="#menu_8d07ef95-cb8d-4a6b-b3cd-2bc7d93f9ea7">
+                                                                            <a href="/akaryakit-fiyatlari/guneydogu-anadolu-bolgesi-akaryakit-fiyatlari" title="Güneydoğu Anadolu Bölgesi Akaryakıt  Fiyatları" class="dropdown-item" data-active="#menu_8b44d8fc-55f3-4212-a01d-70214f93b178">
                                                                                 Güneydoğu Anadolu Bölgesi Akaryakıt  Fiyatları
                                                                             </a>
                                                                         </li>
                                                                         <li>
-                                                                            <a href="/akaryakit-fiyatlari/dogu-anadolu-bolgesi-akaryakit-fiyatlari" title="Doğu Anadolu Bölgesi Akaryakıt  Fiyatları" class="dropdown-item" data-active="#menu_f97b06e0-7973-4b96-96d0-d0d8a1fca23f">
+                                                                            <a href="/akaryakit-fiyatlari/dogu-anadolu-bolgesi-akaryakit-fiyatlari" title="Doğu Anadolu Bölgesi Akaryakıt  Fiyatları" class="dropdown-item" data-active="#menu_ab3faf57-c0b7-4086-9fc1-c0057d2ba0e5">
                                                                                 Doğu Anadolu Bölgesi Akaryakıt  Fiyatları
                                                                             </a>
                                                                         </li>
                                                                         <li>
-                                                                            <a href="/akaryakit-fiyatlari/karadeniz-bolgesi-akaryakit-fiyatlari" title="Karadeniz Bölgesi Akaryakıt  Fiyatları" class="dropdown-item" data-active="#menu_8bf8f817-e9d7-4ee1-808a-8683ecf1ded3">
+                                                                            <a href="/akaryakit-fiyatlari/karadeniz-bolgesi-akaryakit-fiyatlari" title="Karadeniz Bölgesi Akaryakıt  Fiyatları" class="dropdown-item" data-active="#menu_8e267ef5-b569-4050-98fe-7ea4226ee37b">
                                                                                 Karadeniz Bölgesi Akaryakıt  Fiyatları
                                                                             </a>
                                                                         </li>
                                                                         <li>
-                                                                            <a href="/akaryakit-fiyatlari/ic-anadolu-bolgesi-akaryakit-fiyatlari" title="İç Anadolu Bölgesi Akaryakıt  Fiyatları" class="dropdown-item" data-active="#menu_f949351f-1d67-48a3-8ccb-4fd7ea942bae">
+                                                                            <a href="/akaryakit-fiyatlari/ic-anadolu-bolgesi-akaryakit-fiyatlari" title="İç Anadolu Bölgesi Akaryakıt  Fiyatları" class="dropdown-item" data-active="#menu_8ad38fcd-45c5-4075-b4fd-c5d1b47559c8">
                                                                                 İç Anadolu Bölgesi Akaryakıt  Fiyatları
                                                                             </a>
                                                                         </li>
                                                                         <li>
-                                                                            <a href="/akaryakit-fiyatlari/akdeniz-bolgesi-akaryakit-fiyatlari" title="Akdeniz Bölgesi Akaryakıt  Fiyatları" class="dropdown-item" data-active="#menu_70d7da04-8611-4242-b0a6-ce38abebc224">
+                                                                            <a href="/akaryakit-fiyatlari/akdeniz-bolgesi-akaryakit-fiyatlari" title="Akdeniz Bölgesi Akaryakıt  Fiyatları" class="dropdown-item" data-active="#menu_666a3780-5666-4022-977a-fc5bb2e9ec6b">
                                                                                 Akdeniz Bölgesi Akaryakıt  Fiyatları
                                                                             </a>
                                                                         </li>
                                                                         <li>
-                                                                            <a href="/akaryakit-fiyatlari/ege-bolgesi-akaryakit-fiyatlari" title="Ege Bölgesi Akaryakıt  Fiyatları" class="dropdown-item" data-active="#menu_ad4f5a9c-ab43-474a-ad02-ff3deb20f5cf">
+                                                                            <a href="/akaryakit-fiyatlari/ege-bolgesi-akaryakit-fiyatlari" title="Ege Bölgesi Akaryakıt  Fiyatları" class="dropdown-item" data-active="#menu_e23fc06d-1bf2-4e03-b6ac-db2bb74c6126">
                                                                                 Ege Bölgesi Akaryakıt  Fiyatları
                                                                             </a>
                                                                         </li>
                                                                         <li>
-                                                                            <a href="/akaryakit-fiyatlari/marmara-bolgesi-akaryakit-fiyatlari" title="Marmara Bölgesi Akaryakıt  Fiyatları" class="dropdown-item" data-active="#menu_16a77c82-9b56-4942-8327-aa0867b6a9d7">
+                                                                            <a href="/akaryakit-fiyatlari/marmara-bolgesi-akaryakit-fiyatlari" title="Marmara Bölgesi Akaryakıt  Fiyatları" class="dropdown-item" data-active="#menu_3bdd359c-e4f3-4984-8c86-ca184057a653">
                                                                                 Marmara Bölgesi Akaryakıt  Fiyatları
                                                                             </a>
                                                                         </li>
