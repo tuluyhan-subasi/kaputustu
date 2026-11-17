@@ -1,12 +1,12 @@
 {
- "guncelleme": "2026-11-16T12:55:45Z",
+ "guncelleme": "2026-11-17T13:38:49Z",
  "aciklama": "İl ortalaması (ilçelerin ortancası), TL/litre. Benzin: kurşunsuz 95, motorin: standart, LPG: otogaz.",
  "iller": {
   "1": {
    "ad": "Adana",
-   "tarih": "2026-11-16",
-   "benzin": 73.0,
-   "motorin": 97.11,
+   "tarih": "2026-11-17",
+   "benzin": 73.08,
+   "motorin": 97.21,
    "lpg": 51.11,
    "kaynak": {
     "benzin": "Opet",
@@ -16,9 +16,9 @@
   },
   "2": {
    "ad": "Adıyaman",
-   "tarih": "2026-11-16",
-   "benzin": 73.35,
-   "motorin": 97.48,
+   "tarih": "2026-11-17",
+   "benzin": 73.43,
+   "motorin": 97.58,
    "lpg": 51.34,
    "kaynak": {
     "benzin": "Opet",
@@ -28,19 +28,21 @@
   },
   "3": {
    "ad": "Afyonkarahisar",
-   "tarih": "2026-11-16",
-   "benzin": 73.28,
-   "motorin": 97.53,
+   "tarih": "2026-11-17",
+   "benzin": 73.36,
+   "motorin": 97.63,
+   "lpg": 50.7,
    "kaynak": {
     "benzin": "Opet",
-    "motorin": "Opet"
+    "motorin": "Opet",
+    "lpg": "Petrol Ofisi"
    }
   },
   "4": {
    "ad": "Ağrı",
-   "tarih": "2026-11-16",
-   "benzin": 73.73,
-   "motorin": 97.85,
+   "tarih": "2026-11-17",
+   "benzin": 73.81,
+   "motorin": 97.95,
    "lpg": 52.69,
    "kaynak": {
     "benzin": "Opet",
@@ -50,9 +52,9 @@
   },
   "5": {
    "ad": "Amasya",
-   "tarih": "2026-11-16",
-   "benzin": 72.77,
-   "motorin": 96.86,
+   "tarih": "2026-11-17",
+   "benzin": 72.85,
+   "motorin": 96.96,
    "lpg": 51.29,
    "kaynak": {
     "benzin": "Opet",
@@ -62,9 +64,9 @@
   },
   "6": {
    "ad": "Ankara",
-   "tarih": "2026-11-16",
-   "benzin": 72.17,
-   "motorin": 96.28,
+   "tarih": "2026-11-17",
+   "benzin": 72.25,
+   "motorin": 96.38,
    "lpg": 50.79,
    "kaynak": {
     "benzin": "Opet",
@@ -74,9 +76,9 @@
   },
   "7": {
    "ad": "Antalya",
-   "tarih": "2026-11-16",
-   "benzin": 73.43,
-   "motorin": 97.59,
+   "tarih": "2026-11-17",
+   "benzin": 73.51,
+   "motorin": 97.69,
    "lpg": 50.9,
    "kaynak": {
     "benzin": "Opet",
@@ -86,9 +88,9 @@
   },
   "8": {
    "ad": "Artvin",
-   "tarih": "2026-11-16",
-   "benzin": 73.07,
-   "motorin": 97.19,
+   "tarih": "2026-11-17",
+   "benzin": 73.15,
+   "motorin": 97.29,
    "lpg": 52.19,
    "kaynak": {
     "benzin": "Opet",
@@ -98,9 +100,9 @@
   },
   "9": {
    "ad": "Aydın",
-   "tarih": "2026-11-16",
-   "benzin": 72.67,
-   "motorin": 96.82,
+   "tarih": "2026-11-17",
+   "benzin": 72.75,
+   "motorin": 96.92,
    "lpg": 50.8,
    "kaynak": {
     "benzin": "Opet",
@@ -110,9 +112,9 @@
   },
   "10": {
    "ad": "Balıkesir",
-   "tarih": "2026-11-16",
-   "benzin": 72.76,
-   "motorin": 96.9,
+   "tarih": "2026-11-17",
+   "benzin": 72.84,
+   "motorin": 97.0,
    "lpg": 50.2,
    "kaynak": {
     "benzin": "Opet",
@@ -122,9 +124,9 @@
   },
   "11": {
    "ad": "Bilecik",
-   "tarih": "2026-11-16",
-   "benzin": 72.14,
-   "motorin": 96.03,
+   "tarih": "2026-11-17",
+   "benzin": 72.22,
+   "motorin": 96.13,
    "lpg": 50.1,
    "kaynak": {
     "benzin": "Opet",
@@ -134,9 +136,9 @@
   },
   "12": {
    "ad": "Bingöl",
-   "tarih": "2026-11-16",
-   "benzin": 73.73,
-   "motorin": 97.95,
+   "tarih": "2026-11-17",
+   "benzin": 73.81,
+   "motorin": 98.05,
    "lpg": 51.79,
    "kaynak": {
     "benzin": "Opet",
@@ -146,9 +148,9 @@
   },
   "13": {
    "ad": "Bitlis",
-   "tarih": "2026-11-16",
-   "benzin": 73.78,
-   "motorin": 98.02,
+   "tarih": "2026-11-17",
+   "benzin": 73.87,
+   "motorin": 98.12,
    "lpg": 51.41,
    "kaynak": {
     "benzin": "Opet",
@@ -158,9 +160,9 @@
   },
   "14": {
    "ad": "Bolu",
-   "tarih": "2026-11-16",
-   "benzin": 72.26,
-   "motorin": 96.14,
+   "tarih": "2026-11-17",
+   "benzin": 72.34,
+   "motorin": 96.24,
    "lpg": 50.49,
    "kaynak": {
     "benzin": "Opet",
@@ -170,9 +172,9 @@
   },
   "15": {
    "ad": "Burdur",
-   "tarih": "2026-11-16",
-   "benzin": 73.22,
-   "motorin": 97.43,
+   "tarih": "2026-11-17",
+   "benzin": 73.3,
+   "motorin": 97.53,
    "lpg": 50.9,
    "kaynak": {
     "benzin": "Opet",
@@ -182,9 +184,9 @@
   },
   "16": {
    "ad": "Bursa",
-   "tarih": "2026-11-16",
-   "benzin": 72.25,
-   "motorin": 96.17,
+   "tarih": "2026-11-17",
+   "benzin": 72.33,
+   "motorin": 96.27,
    "lpg": 50.1,
    "kaynak": {
     "benzin": "Opet",
@@ -194,9 +196,9 @@
   },
   "17": {
    "ad": "Çanakkale",
-   "tarih": "2026-11-16",
-   "benzin": 72.82,
-   "motorin": 96.94,
+   "tarih": "2026-11-17",
+   "benzin": 72.9,
+   "motorin": 97.04,
    "lpg": 50.3,
    "kaynak": {
     "benzin": "Opet",
@@ -206,9 +208,9 @@
   },
   "18": {
    "ad": "Çankırı",
-   "tarih": "2026-11-16",
-   "benzin": 72.58,
-   "motorin": 96.69,
+   "tarih": "2026-11-17",
+   "benzin": 72.66,
+   "motorin": 96.8,
    "lpg": 50.99,
    "kaynak": {
     "benzin": "Opet",
@@ -218,9 +220,9 @@
   },
   "19": {
    "ad": "Çorum",
-   "tarih": "2026-11-16",
-   "benzin": 72.77,
-   "motorin": 96.86,
+   "tarih": "2026-11-17",
+   "benzin": 72.85,
+   "motorin": 96.96,
    "lpg": 50.89,
    "kaynak": {
     "benzin": "Opet",
@@ -230,9 +232,9 @@
   },
   "20": {
    "ad": "Denizli",
-   "tarih": "2026-11-16",
-   "benzin": 72.93,
-   "motorin": 97.1,
+   "tarih": "2026-11-17",
+   "benzin": 73.01,
+   "motorin": 97.2,
    "lpg": 50.6,
    "kaynak": {
     "benzin": "Opet",
@@ -242,9 +244,9 @@
   },
   "21": {
    "ad": "Diyarbakır",
-   "tarih": "2026-11-16",
-   "benzin": 73.64,
-   "motorin": 97.86,
+   "tarih": "2026-11-17",
+   "benzin": 73.72,
+   "motorin": 97.96,
    "lpg": 51.76,
    "kaynak": {
     "benzin": "Opet",
@@ -254,9 +256,9 @@
   },
   "22": {
    "ad": "Edirne",
-   "tarih": "2026-11-16",
-   "benzin": 72.3,
-   "motorin": 96.43,
+   "tarih": "2026-11-17",
+   "benzin": 72.38,
+   "motorin": 96.53,
    "lpg": 50.8,
    "kaynak": {
     "benzin": "Opet",
@@ -266,9 +268,9 @@
   },
   "23": {
    "ad": "Elazığ",
-   "tarih": "2026-11-16",
-   "benzin": 73.82,
-   "motorin": 98.0,
+   "tarih": "2026-11-17",
+   "benzin": 73.9,
+   "motorin": 98.1,
    "lpg": 51.31,
    "kaynak": {
     "benzin": "Opet",
@@ -278,9 +280,9 @@
   },
   "24": {
    "ad": "Erzincan",
-   "tarih": "2026-11-16",
-   "benzin": 73.18,
-   "motorin": 97.31,
+   "tarih": "2026-11-17",
+   "benzin": 73.26,
+   "motorin": 97.41,
    "lpg": 52.19,
    "kaynak": {
     "benzin": "Opet",
@@ -290,9 +292,9 @@
   },
   "25": {
    "ad": "Erzurum",
-   "tarih": "2026-11-16",
-   "benzin": 73.23,
-   "motorin": 97.37,
+   "tarih": "2026-11-17",
+   "benzin": 73.31,
+   "motorin": 97.47,
    "lpg": 51.89,
    "kaynak": {
     "benzin": "Opet",
@@ -302,9 +304,9 @@
   },
   "26": {
    "ad": "Eskişehir",
-   "tarih": "2026-11-16",
-   "benzin": 72.45,
-   "motorin": 96.36,
+   "tarih": "2026-11-17",
+   "benzin": 72.53,
+   "motorin": 96.46,
    "lpg": 50.2,
    "kaynak": {
     "benzin": "Opet",
@@ -314,9 +316,9 @@
   },
   "27": {
    "ad": "Gaziantep",
-   "tarih": "2026-11-16",
-   "benzin": 73.15,
-   "motorin": 97.24,
+   "tarih": "2026-11-17",
+   "benzin": 73.22,
+   "motorin": 97.34,
    "lpg": 50.91,
    "kaynak": {
     "benzin": "Opet",
@@ -326,9 +328,9 @@
   },
   "28": {
    "ad": "Giresun",
-   "tarih": "2026-11-16",
-   "benzin": 72.97,
-   "motorin": 97.12,
+   "tarih": "2026-11-17",
+   "benzin": 73.05,
+   "motorin": 97.22,
    "lpg": 51.49,
    "kaynak": {
     "benzin": "Opet",
@@ -338,9 +340,9 @@
   },
   "29": {
    "ad": "Gümüşhane",
-   "tarih": "2026-11-16",
-   "benzin": 72.94,
-   "motorin": 97.07,
+   "tarih": "2026-11-17",
+   "benzin": 73.02,
+   "motorin": 97.17,
    "lpg": 51.49,
    "kaynak": {
     "benzin": "Opet",
@@ -350,9 +352,9 @@
   },
   "30": {
    "ad": "Hakkari",
-   "tarih": "2026-11-16",
-   "benzin": 73.81,
-   "motorin": 98.01,
+   "tarih": "2026-11-17",
+   "benzin": 73.9,
+   "motorin": 98.11,
    "lpg": 52.47,
    "kaynak": {
     "benzin": "Opet",
@@ -362,9 +364,9 @@
   },
   "31": {
    "ad": "Hatay",
-   "tarih": "2026-11-16",
-   "benzin": 72.9,
-   "motorin": 97.03,
+   "tarih": "2026-11-17",
+   "benzin": 72.98,
+   "motorin": 97.13,
    "lpg": 51.01,
    "kaynak": {
     "benzin": "Opet",
@@ -374,9 +376,9 @@
   },
   "32": {
    "ad": "Isparta",
-   "tarih": "2026-11-16",
-   "benzin": 73.28,
-   "motorin": 97.5,
+   "tarih": "2026-11-17",
+   "benzin": 73.36,
+   "motorin": 97.6,
    "lpg": 50.8,
    "kaynak": {
     "benzin": "Opet",
@@ -386,9 +388,9 @@
   },
   "33": {
    "ad": "Mersin",
-   "tarih": "2026-11-16",
-   "benzin": 73.0,
-   "motorin": 97.1,
+   "tarih": "2026-11-17",
+   "benzin": 73.07,
+   "motorin": 97.2,
    "lpg": 51.41,
    "kaynak": {
     "benzin": "Opet",
@@ -398,9 +400,9 @@
   },
   "34": {
    "ad": "İstanbul",
-   "tarih": "2026-11-16",
-   "benzin": 71.01,
-   "motorin": 95.09,
+   "tarih": "2026-11-17",
+   "benzin": 71.09,
+   "motorin": 95.19,
    "lpg": 50.7,
    "kaynak": {
     "benzin": "Opet",
@@ -410,9 +412,9 @@
   },
   "35": {
    "ad": "İzmir",
-   "tarih": "2026-11-16",
-   "benzin": 72.45,
-   "motorin": 96.59,
+   "tarih": "2026-11-17",
+   "benzin": 72.53,
+   "motorin": 96.69,
    "lpg": 50.7,
    "kaynak": {
     "benzin": "Opet",
@@ -422,9 +424,9 @@
   },
   "36": {
    "ad": "Kars",
-   "tarih": "2026-11-16",
-   "benzin": 73.24,
-   "motorin": 97.38,
+   "tarih": "2026-11-17",
+   "benzin": 73.32,
+   "motorin": 97.48,
    "lpg": 51.79,
    "kaynak": {
     "benzin": "Opet",
@@ -434,9 +436,9 @@
   },
   "37": {
    "ad": "Kastamonu",
-   "tarih": "2026-11-16",
-   "benzin": 72.87,
-   "motorin": 96.96,
+   "tarih": "2026-11-17",
+   "benzin": 72.95,
+   "motorin": 97.06,
    "lpg": 51.49,
    "kaynak": {
     "benzin": "Opet",
@@ -446,9 +448,9 @@
   },
   "38": {
    "ad": "Kayseri",
-   "tarih": "2026-11-16",
-   "benzin": 73.17,
-   "motorin": 97.29,
+   "tarih": "2026-11-17",
+   "benzin": 73.25,
+   "motorin": 97.39,
    "lpg": 50.79,
    "kaynak": {
     "benzin": "Opet",
@@ -458,9 +460,9 @@
   },
   "39": {
    "ad": "Kırklareli",
-   "tarih": "2026-11-16",
-   "benzin": 72.28,
-   "motorin": 96.4,
+   "tarih": "2026-11-17",
+   "benzin": 72.36,
+   "motorin": 96.5,
    "lpg": 50.7,
    "kaynak": {
     "benzin": "Opet",
@@ -470,9 +472,9 @@
   },
   "40": {
    "ad": "Kırşehir",
-   "tarih": "2026-11-16",
-   "benzin": 72.51,
-   "motorin": 96.64,
+   "tarih": "2026-11-17",
+   "benzin": 72.59,
+   "motorin": 96.74,
    "lpg": 50.69,
    "kaynak": {
     "benzin": "Opet",
@@ -482,9 +484,9 @@
   },
   "41": {
    "ad": "Kocaeli",
-   "tarih": "2026-11-16",
-   "benzin": 71.62,
-   "motorin": 95.53,
+   "tarih": "2026-11-17",
+   "benzin": 71.7,
+   "motorin": 95.63,
    "lpg": 49.9,
    "kaynak": {
     "benzin": "Opet",
@@ -494,9 +496,9 @@
   },
   "42": {
    "ad": "Konya",
-   "tarih": "2026-11-16",
-   "benzin": 73.19,
-   "motorin": 97.44,
+   "tarih": "2026-11-17",
+   "benzin": 73.27,
+   "motorin": 97.54,
    "lpg": 50.79,
    "kaynak": {
     "benzin": "Opet",
@@ -506,9 +508,9 @@
   },
   "43": {
    "ad": "Kütahya",
-   "tarih": "2026-11-16",
-   "benzin": 73.13,
-   "motorin": 97.04,
+   "tarih": "2026-11-17",
+   "benzin": 73.21,
+   "motorin": 97.14,
    "lpg": 50.8,
    "kaynak": {
     "benzin": "Opet",
@@ -518,9 +520,9 @@
   },
   "44": {
    "ad": "Malatya",
-   "tarih": "2026-11-16",
-   "benzin": 73.34,
-   "motorin": 97.47,
+   "tarih": "2026-11-17",
+   "benzin": 73.42,
+   "motorin": 97.57,
    "lpg": 51.27,
    "kaynak": {
     "benzin": "Opet",
@@ -530,9 +532,9 @@
   },
   "45": {
    "ad": "Manisa",
-   "tarih": "2026-11-16",
-   "benzin": 72.53,
-   "motorin": 96.66,
+   "tarih": "2026-11-17",
+   "benzin": 72.61,
+   "motorin": 96.76,
    "lpg": 50.7,
    "kaynak": {
     "benzin": "Opet",
@@ -542,9 +544,9 @@
   },
   "46": {
    "ad": "Kahramanmaraş",
-   "tarih": "2026-11-16",
-   "benzin": 73.13,
-   "motorin": 97.27,
+   "tarih": "2026-11-17",
+   "benzin": 73.21,
+   "motorin": 97.37,
    "lpg": 51.04,
    "kaynak": {
     "benzin": "Opet",
@@ -554,9 +556,9 @@
   },
   "47": {
    "ad": "Mardin",
-   "tarih": "2026-11-16",
-   "benzin": 73.65,
-   "motorin": 97.87,
+   "tarih": "2026-11-17",
+   "benzin": 73.73,
+   "motorin": 97.97,
    "lpg": 51.44,
    "kaynak": {
     "benzin": "Opet",
@@ -566,9 +568,9 @@
   },
   "48": {
    "ad": "Muğla",
-   "tarih": "2026-11-16",
-   "benzin": 72.94,
-   "motorin": 97.09,
+   "tarih": "2026-11-17",
+   "benzin": 73.02,
+   "motorin": 97.19,
    "lpg": 50.7,
    "kaynak": {
     "benzin": "Opet",
@@ -578,9 +580,9 @@
   },
   "49": {
    "ad": "Muş",
-   "tarih": "2026-11-16",
-   "benzin": 73.78,
-   "motorin": 97.99,
+   "tarih": "2026-11-17",
+   "benzin": 73.86,
+   "motorin": 98.09,
    "lpg": 51.78,
    "kaynak": {
     "benzin": "Opet",
@@ -590,9 +592,9 @@
   },
   "50": {
    "ad": "Nevşehir",
-   "tarih": "2026-11-16",
-   "benzin": 73.07,
-   "motorin": 97.2,
+   "tarih": "2026-11-17",
+   "benzin": 73.15,
+   "motorin": 97.3,
    "lpg": 50.79,
    "kaynak": {
     "benzin": "Opet",
@@ -602,9 +604,9 @@
   },
   "51": {
    "ad": "Niğde",
-   "tarih": "2026-11-16",
-   "benzin": 73.0,
-   "motorin": 97.1,
+   "tarih": "2026-11-17",
+   "benzin": 73.07,
+   "motorin": 97.2,
    "lpg": 50.49,
    "kaynak": {
     "benzin": "Opet",
@@ -614,9 +616,9 @@
   },
   "52": {
    "ad": "Ordu",
-   "tarih": "2026-11-16",
-   "benzin": 72.78,
-   "motorin": 96.86,
+   "tarih": "2026-11-17",
+   "benzin": 72.86,
+   "motorin": 96.96,
    "lpg": 51.09,
    "kaynak": {
     "benzin": "Opet",
@@ -626,9 +628,9 @@
   },
   "53": {
    "ad": "Rize",
-   "tarih": "2026-11-16",
-   "benzin": 72.93,
-   "motorin": 97.05,
+   "tarih": "2026-11-17",
+   "benzin": 73.0,
+   "motorin": 97.15,
    "lpg": 51.49,
    "kaynak": {
     "benzin": "Opet",
@@ -638,9 +640,9 @@
   },
   "54": {
    "ad": "Sakarya",
-   "tarih": "2026-11-16",
-   "benzin": 71.93,
-   "motorin": 95.83,
+   "tarih": "2026-11-17",
+   "benzin": 72.01,
+   "motorin": 95.93,
    "lpg": 50.0,
    "kaynak": {
     "benzin": "Opet",
@@ -650,9 +652,9 @@
   },
   "55": {
    "ad": "Samsun",
-   "tarih": "2026-11-16",
-   "benzin": 72.76,
-   "motorin": 96.85,
+   "tarih": "2026-11-17",
+   "benzin": 72.84,
+   "motorin": 96.95,
    "lpg": 51.09,
    "kaynak": {
     "benzin": "Opet",
@@ -662,9 +664,9 @@
   },
   "56": {
    "ad": "Siirt",
-   "tarih": "2026-11-16",
-   "benzin": 73.69,
-   "motorin": 97.9,
+   "tarih": "2026-11-17",
+   "benzin": 73.77,
+   "motorin": 98.0,
    "lpg": 51.54,
    "kaynak": {
     "benzin": "Opet",
@@ -674,9 +676,9 @@
   },
   "57": {
    "ad": "Sinop",
-   "tarih": "2026-11-16",
-   "benzin": 72.82,
-   "motorin": 96.91,
+   "tarih": "2026-11-17",
+   "benzin": 72.9,
+   "motorin": 97.01,
    "lpg": 51.39,
    "kaynak": {
     "benzin": "Opet",
@@ -686,9 +688,9 @@
   },
   "58": {
    "ad": "Sivas",
-   "tarih": "2026-11-16",
-   "benzin": 73.18,
-   "motorin": 97.27,
+   "tarih": "2026-11-17",
+   "benzin": 73.26,
+   "motorin": 97.37,
    "lpg": 51.19,
    "kaynak": {
     "benzin": "Opet",
@@ -698,9 +700,9 @@
   },
   "59": {
    "ad": "Tekirdağ",
-   "tarih": "2026-11-16",
-   "benzin": 71.89,
-   "motorin": 96.01,
+   "tarih": "2026-11-17",
+   "benzin": 71.97,
+   "motorin": 96.11,
    "lpg": 50.6,
    "kaynak": {
     "benzin": "Opet",
@@ -710,9 +712,9 @@
   },
   "60": {
    "ad": "Tokat",
-   "tarih": "2026-11-16",
-   "benzin": 72.82,
-   "motorin": 96.91,
+   "tarih": "2026-11-17",
+   "benzin": 72.9,
+   "motorin": 97.01,
    "lpg": 51.49,
    "kaynak": {
     "benzin": "Opet",
@@ -722,9 +724,9 @@
   },
   "61": {
    "ad": "Trabzon",
-   "tarih": "2026-11-16",
-   "benzin": 72.91,
-   "motorin": 97.04,
+   "tarih": "2026-11-17",
+   "benzin": 72.99,
+   "motorin": 97.14,
    "lpg": 51.49,
    "kaynak": {
     "benzin": "Opet",
@@ -734,9 +736,9 @@
   },
   "62": {
    "ad": "Tunceli",
-   "tarih": "2026-11-16",
-   "benzin": 73.76,
-   "motorin": 97.95,
+   "tarih": "2026-11-17",
+   "benzin": 73.84,
+   "motorin": 98.05,
    "lpg": 52.21,
    "kaynak": {
     "benzin": "Opet",
@@ -746,9 +748,9 @@
   },
   "63": {
    "ad": "Şanlıurfa",
-   "tarih": "2026-11-16",
-   "benzin": 73.32,
-   "motorin": 97.45,
+   "tarih": "2026-11-17",
+   "benzin": 73.41,
+   "motorin": 97.55,
    "lpg": 51.29,
    "kaynak": {
     "benzin": "Opet",
@@ -758,9 +760,9 @@
   },
   "64": {
    "ad": "Uşak",
-   "tarih": "2026-11-16",
-   "benzin": 72.94,
-   "motorin": 97.07,
+   "tarih": "2026-11-17",
+   "benzin": 73.02,
+   "motorin": 97.17,
    "lpg": 50.8,
    "kaynak": {
     "benzin": "Opet",
@@ -770,9 +772,9 @@
   },
   "65": {
    "ad": "Van",
-   "tarih": "2026-11-16",
-   "benzin": 73.75,
-   "motorin": 97.91,
+   "tarih": "2026-11-17",
+   "benzin": 73.83,
+   "motorin": 98.01,
    "lpg": 51.81,
    "kaynak": {
     "benzin": "Opet",
@@ -782,9 +784,9 @@
   },
   "66": {
    "ad": "Yozgat",
-   "tarih": "2026-11-16",
-   "benzin": 72.86,
-   "motorin": 96.97,
+   "tarih": "2026-11-17",
+   "benzin": 72.94,
+   "motorin": 97.07,
    "lpg": 50.89,
    "kaynak": {
     "benzin": "Opet",
@@ -794,9 +796,9 @@
   },
   "67": {
    "ad": "Zonguldak",
-   "tarih": "2026-11-16",
-   "benzin": 72.44,
-   "motorin": 96.35,
+   "tarih": "2026-11-17",
+   "benzin": 72.52,
+   "motorin": 96.45,
    "lpg": 50.79,
    "kaynak": {
     "benzin": "Opet",
@@ -806,9 +808,9 @@
   },
   "68": {
    "ad": "Aksaray",
-   "tarih": "2026-11-16",
-   "benzin": 73.08,
-   "motorin": 97.18,
+   "tarih": "2026-11-17",
+   "benzin": 73.16,
+   "motorin": 97.28,
    "lpg": 50.79,
    "kaynak": {
     "benzin": "Opet",
@@ -818,9 +820,9 @@
   },
   "69": {
    "ad": "Bayburt",
-   "tarih": "2026-11-16",
-   "benzin": 72.94,
-   "motorin": 97.07,
+   "tarih": "2026-11-17",
+   "benzin": 73.02,
+   "motorin": 97.17,
    "lpg": 51.99,
    "kaynak": {
     "benzin": "Opet",
@@ -830,9 +832,9 @@
   },
   "70": {
    "ad": "Karaman",
-   "tarih": "2026-11-16",
-   "benzin": 73.05,
-   "motorin": 97.18,
+   "tarih": "2026-11-17",
+   "benzin": 73.13,
+   "motorin": 97.28,
    "lpg": 51.31,
    "kaynak": {
     "benzin": "Opet",
@@ -842,9 +844,9 @@
   },
   "71": {
    "ad": "Kırıkkale",
-   "tarih": "2026-11-16",
-   "benzin": 72.47,
-   "motorin": 96.58,
+   "tarih": "2026-11-17",
+   "benzin": 72.55,
+   "motorin": 96.68,
    "lpg": 50.69,
    "kaynak": {
     "benzin": "Opet",
@@ -854,9 +856,9 @@
   },
   "72": {
    "ad": "Batman",
-   "tarih": "2026-11-16",
-   "benzin": 73.64,
-   "motorin": 97.86,
+   "tarih": "2026-11-17",
+   "benzin": 73.72,
+   "motorin": 97.96,
    "lpg": 51.64,
    "kaynak": {
     "benzin": "Opet",
@@ -866,9 +868,9 @@
   },
   "73": {
    "ad": "Şırnak",
-   "tarih": "2026-11-16",
-   "benzin": 73.76,
-   "motorin": 97.98,
+   "tarih": "2026-11-17",
+   "benzin": 73.84,
+   "motorin": 98.08,
    "lpg": 51.85,
    "kaynak": {
     "benzin": "Opet",
@@ -878,9 +880,9 @@
   },
   "74": {
    "ad": "Bartın",
-   "tarih": "2026-11-16",
-   "benzin": 72.49,
-   "motorin": 96.41,
+   "tarih": "2026-11-17",
+   "benzin": 72.57,
+   "motorin": 96.52,
    "lpg": 50.69,
    "kaynak": {
     "benzin": "Opet",
@@ -890,9 +892,9 @@
   },
   "75": {
    "ad": "Ardahan",
-   "tarih": "2026-11-16",
-   "benzin": 73.24,
-   "motorin": 97.38,
+   "tarih": "2026-11-17",
+   "benzin": 73.32,
+   "motorin": 97.48,
    "lpg": 51.69,
    "kaynak": {
     "benzin": "Opet",
@@ -902,9 +904,9 @@
   },
   "76": {
    "ad": "Iğdır",
-   "tarih": "2026-11-16",
-   "benzin": 73.71,
-   "motorin": 97.84,
+   "tarih": "2026-11-17",
+   "benzin": 73.79,
+   "motorin": 97.94,
    "lpg": 52.69,
    "kaynak": {
     "benzin": "Opet",
@@ -914,9 +916,9 @@
   },
   "77": {
    "ad": "Yalova",
-   "tarih": "2026-11-16",
-   "benzin": 71.88,
-   "motorin": 95.8,
+   "tarih": "2026-11-17",
+   "benzin": 71.97,
+   "motorin": 95.9,
    "lpg": 50.0,
    "kaynak": {
     "benzin": "Opet",
@@ -926,9 +928,9 @@
   },
   "78": {
    "ad": "Karabük",
-   "tarih": "2026-11-16",
-   "benzin": 72.5,
-   "motorin": 96.42,
+   "tarih": "2026-11-17",
+   "benzin": 72.58,
+   "motorin": 96.52,
    "lpg": 50.49,
    "kaynak": {
     "benzin": "Opet",
@@ -938,9 +940,9 @@
   },
   "79": {
    "ad": "Kilis",
-   "tarih": "2026-11-16",
-   "benzin": 72.87,
-   "motorin": 97.02,
+   "tarih": "2026-11-17",
+   "benzin": 72.95,
+   "motorin": 97.12,
    "lpg": 51.31,
    "kaynak": {
     "benzin": "Opet",
@@ -950,9 +952,9 @@
   },
   "80": {
    "ad": "Osmaniye",
-   "tarih": "2026-11-16",
-   "benzin": 72.88,
-   "motorin": 97.02,
+   "tarih": "2026-11-17",
+   "benzin": 72.96,
+   "motorin": 97.12,
    "lpg": 51.54,
    "kaynak": {
     "benzin": "Opet",
@@ -962,9 +964,9 @@
   },
   "81": {
    "ad": "Düzce",
-   "tarih": "2026-11-16",
-   "benzin": 72.09,
-   "motorin": 96.0,
+   "tarih": "2026-11-17",
+   "benzin": 72.17,
+   "motorin": 96.1,
    "lpg": 50.49,
    "kaynak": {
     "benzin": "Opet",
